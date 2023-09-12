@@ -7,7 +7,7 @@
                         #searchBox
                         (keyup)="search(searchBox.value)"
                         placeholder="Rechercher un pokémon"
-                    >
+                    />
                     <div class="collection">
                         <a 
                             *ngFor="let pokemon of pokemons$ | async"
