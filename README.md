@@ -1,4 +1,4 @@
-# NgPokemonApp
+# NgPokemonApp - Web App de pokémons sous Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
